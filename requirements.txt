@@ -1,0 +1,4 @@
+Pytorch
+Numpy
+Pandas
+Matplotlib
